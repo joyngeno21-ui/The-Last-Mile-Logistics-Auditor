@@ -7,6 +7,11 @@ This repository hosts the root-cause data analysis framework built for **Veridi 
 
 My analysis reveals that delivery performance drastically influences customer sentiment: orders that arrive late receive a low average review score of 2.53 out of 5, compared to 4.29 for those delivered on time. Geographically, main e-commerce hubs like São Paulo and Minas Gerais enjoy extremely low delay rates (approx. 5%), whereas remote Northeast regions like Alagoas suffer from high delay rates of over 23%. Finally, analyzing the overall rating distribution shows that 59.2% of customers are highly satisfied 5-star 'promoters', but a significant 12.8% are frustrated 'detractors' (1 and 2 stars) who present a high risk of churn and brand damage.
 
+**B. Project Links**
+Link to Notebook: https://colab.research.google.com/drive/1yOWdAIK4Los9BL9EEQuJq4oujIekv9Xk?usp=drive_link
+Link to Dashboard: https://drive.google.com/file/d/1C5-Fm5JSihrulI2fURLXDJFnVrB1Bafj/view?usp=drive_link
+Link to Presentation: https://docs.google.com/presentation/d/1pOQcL0ayrSW-pO24Q7XzOXNdfoZCHDHU/edit?usp=drive_link&ouid=114025808076984413950&rtpof=true&sd=true
+
 
   ### C. Technical Explanation
 
