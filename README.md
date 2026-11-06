@@ -10,7 +10,7 @@ My analysis reveals that delivery performance drastically influences customer se
 **B. Project Links**
 Link to Notebook: https://colab.research.google.com/drive/1yOWdAIK4Los9BL9EEQuJq4oujIekv9Xk?usp=drive_link
 
-Link to Dashboard: https://drive.google.com/file/d/1C5-Fm5JSihrulI2fURLXDJFnVrB1Bafj/view?usp=drive_link
+Link to Dashboard: https://public.tableau.com/app/profile/joyline.ngeno/vizzes
 
 Link to Presentation: https://docs.google.com/presentation/d/1pOQcL0ayrSW-pO24Q7XzOXNdfoZCHDHU/edit?usp=drive_link&ouid=114025808076984413950&rtpof=true&sd=true
 
